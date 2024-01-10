@@ -1,0 +1,46 @@
+.table-container {
+
+    table {
+        width: 100%;
+
+        thead {
+            background-color: #F2F2F2;
+
+            tr {
+                display: flex;
+                padding: 10px 12px;
+                align-items: center;
+                gap: 40px;
+
+                .table-head {
+                    color: #4D4D4D;
+                    font-size: 14px;
+                    font-weight: 500;
+                    line-height: 20px;
+                    flex: 1;
+                    text-align: left;
+
+                }
+            }
+        }
+
+        .table-body {
+            .table-body-row {
+                display: flex;
+                padding: 14px 12px;
+                align-items: center;
+                gap: 40px;
+
+                .table-body-row-d {
+                    color: #146EB4;
+                    flex: 1;
+                }
+
+                .table-body-row-d2 {
+                    color: #1A181E;
+                    flex: 1;
+                }
+            }
+        }
+    }
+}

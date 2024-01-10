@@ -1,0 +1,17 @@
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .header-child {
+        /* display: flex;
+    gap: 12px;
+    border: 1px solid red; */
+        /* img{
+      height: 40px;
+      width: 40px;
+      border-radius: 25%;
+      background-color: rgb(174, 171, 171);
+    } */
+    }
+}

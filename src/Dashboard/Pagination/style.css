@@ -1,0 +1,14 @@
+.pagination-container {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    width: fit-content;
+    margin: auto;
+
+    .current-page {
+        background-color: blue;
+        padding: 4px 8px;
+        color: #FFF;
+        border-radius: 4px;
+    }
+}

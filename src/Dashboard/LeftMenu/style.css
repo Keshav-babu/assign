@@ -1,0 +1,19 @@
+.left-menu-container {
+    display: flex;
+    padding: 16px 10px;
+    flex-direction: column;
+    gap: 16px;
+    background-color: #1E2640;
+    width: 224px;
+
+    .menu-content {
+        display: flex;
+        color: #FFF;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+        align-items: center;
+        gap: 12px;
+        padding: 8px 16px;
+    }
+}
